@@ -66,12 +66,11 @@ If you'd like more details on any private projects, open an issue or DM me on th
 
 
 ## How to Try My Games
-- Visit me on itch.io: https://bigneekode.itch.io
+- Visit me on itch.io: https://kanvas-kosong.itch.io
 - Releases, prototypes, and small playable builds are posted there. If you'd like to test something private, message me and I can share a build.
 
 ## Contact & Social
-- Twitter/X: [@BigNeekode](https://twitter.com/BigNeekode)
-- itch.io: https://bigneekode.itch.io
+- itch.io: https://kanvas-kosong.itch.io
 - GitHub: https://github.com/BigNeekode
 
 ---
