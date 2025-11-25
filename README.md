@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=180&section=header&text=Hey,%20I'm%20Nico%20�&fontColor=FFFFFF&fontSize=42&fontAlignY=35" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=180&section=header&text=Hey,%20I'm%20Nico%20%F0%9F%98%A4&fontColor=FFFFFF&fontSize=42&fontAlignY=35" alt="Header" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Chill+Grumpy+Lazy+Cat;Occasional+Coder;Professional+Napper" alt="Typing SVG" /></a>
@@ -11,7 +11,7 @@
 
 ---
 
-### 😴 About Me
+### � About Me
 
 I'm a **chill grumpy lazy cat** who occasionally codes. My focus is on minimal effort, maximum comfort, and projects that don't require getting up from my nap spot. I build things slowly, complain about it, and somehow ship stuff anyway.
 
@@ -19,16 +19,16 @@ I'm a **chill grumpy lazy cat** who occasionally codes. My focus is on minimal e
 
 ---
 
-### 😾 What I'm Working On
+### 📝 What I'm Working On
 
 - 😴 **Napping** — my primary skill and passion
-- � **Occasionally coding** when the food bowl is empty
+- 🍕 **Occasionally coding** when the food bowl is empty
 - 🎮 **Playing games** instead of making them
 - 💤 **Perfecting the art of procrastination**
 
 ---
 
-### � Tech Stack (when I bother)
+### 💻 Tech Stack (when I bother)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
@@ -62,7 +62,7 @@ I'm a **chill grumpy lazy cat** who occasionally codes. My focus is on minimal e
 
 ---
 
-### � Featured Project
+### 🎮 Featured Project
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -70,7 +70,7 @@ I'm a **chill grumpy lazy cat** who occasionally codes. My focus is on minimal e
 
 ---
 
-### 🐾 Try My Stuff
+### 🎮 Try My Stuff
 
 <p align="center">
   <a href="https://kanvas-kosong.itch.io">
