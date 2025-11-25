@@ -48,8 +48,8 @@ I build tiny, playable worlds in **Unity**, design game feel experiments, and co
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigNeekode&show_icons=true&theme=calm&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigNeekode&layout=compact&theme=calm&hide_border=true&bg_color=00000000" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BigNeekode&show_icons=true&theme=default_repocard&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigNeekode&layout=compact&theme=default_repocard&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
