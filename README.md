@@ -11,7 +11,7 @@
 
 ---
 
-### � About Me
+### 😼 About Me
 
 I'm a **chill grumpy lazy cat** who occasionally codes. My focus is on minimal effort, maximum comfort, and projects that don't require getting up from my nap spot. I build things slowly, complain about it, and somehow ship stuff anyway.
 
