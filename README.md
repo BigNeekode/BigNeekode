@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F2CDA0&height=180&section=header&text=Hey,%20I'm%20Nico%20👋&fontColor=5A3E2B&fontSize=42&fontAlignY=35" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=180&section=header&text=Hey,%20I'm%20Nico%20�&fontColor=FFFFFF&fontSize=42&fontAlignY=35" alt="Header" width="100%" />
 
 <p align="center">
-  <b>Indie Game Dev • Composer • Maker of Cozy Little Experiences</b>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Chill+Grumpy+Lazy+Cat;Occasional+Coder;Professional+Napper" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -11,23 +11,24 @@
 
 ---
 
-### 🌿 About Me
+### 😴 About Me
 
-I build tiny, playable worlds in **Unity**, design game feel experiments, and compose **lo-fi music loops** to complement them. My focus is on small, cozy game experiences — short, self-contained plays with warm visuals, gentle audio, and satisfying interaction.
+I'm a **chill grumpy lazy cat** who occasionally codes. My focus is on minimal effort, maximum comfort, and projects that don't require getting up from my nap spot. I build things slowly, complain about it, and somehow ship stuff anyway.
 
-> *"Make simple things. Make them with love. And finish what you can."*
-
----
-
-### 🎮 What I'm Working On
-
-- 🍃 **Micro-prototyping** new ideas every week
-- 🔧 Building **tools & editor scripts** to speed up dev workflows
-- 🎼 **Composing** ambient loops and sound FX
+> *"Why do today what you can put off until tomorrow... or never?"*
 
 ---
 
-### 🛠️ Tech Stack
+### 😾 What I'm Working On
+
+- 😴 **Napping** — my primary skill and passion
+- � **Occasionally coding** when the food bowl is empty
+- 🎮 **Playing games** instead of making them
+- 💤 **Perfecting the art of procrastination**
+
+---
+
+### � Tech Stack (when I bother)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
@@ -45,7 +46,7 @@ I build tiny, playable worlds in **Unity**, design game feel experiments, and co
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (rare updates)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigNeekode&theme=default&hide_border=true" alt="GitHub Streak" />
@@ -55,17 +56,21 @@ I build tiny, playable worlds in **Unity**, design game feel experiments, and co
   <img src="https://github-profile-trophy.vercel.app/?username=BigNeekode&theme=flat&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
----
-
-### 🕹️ Featured Project
-
-| Project | Description |
-|---------|-------------|
-| **Piew-Piew** | Games+ Arcade shooter |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigNeekode&theme=minimal&hide_border=true&area=true&area_color=9370DB&line=FFFFFF&point=FFFFFF" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
-### 🎮 Play My Games
+### � Featured Project
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Piew-Piew](https://kanvas-kosong.itch.io)** | Games+ Arcade shooter | Unity, C# |
+
+---
+
+### 🐾 Try My Stuff
 
 <p align="center">
   <a href="https://kanvas-kosong.itch.io">
@@ -77,16 +82,18 @@ Releases, prototypes, and playable builds are posted on my itch.io page. Want to
 
 ---
 
-### 🤝 Let's Connect
+### 🐱 Let's Connect
 
-Open to collaborations on indie game projects! Feel free to open an issue or reach out on socials.
+Open to collaborations that don't require too much effort. Feel free to open an issue or message me when I'm awake.
+
+💬 **Fun fact:** I've been "working on" the same project for 3 years. Progress is optional.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BigNeekode&color=F2CDA0&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BigNeekode&color=9370DB&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
 
-<p align="center">🍃 <i>Thanks for visiting — enjoy the little moments.</i></p>
+<p align="center">😴 <i>Thanks for visiting — now let me sleep.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F2CDA0&height=120&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer" alt="Footer" width="100%" />
