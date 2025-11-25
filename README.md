@@ -131,6 +131,40 @@ I build things slowly, complain about it, and somehow ship stuff anyway. ✨
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigNeekode&theme=tokyo-night&hide_border=true&area=true&area_color=9370DB" alt="Activity Graph" width="100%" />
 </p>
 
+<!-- 3D CONTRIBUTION CALENDAR -->
+### 🏙️ 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" width="100%" />
+</p>
+
+<!-- GITHUB METRICS -->
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
+</p>
+
+<!-- NOW VIBING -->
+## 🎵 Now Vibing
+
+<p align="center">
+  <a href="https://www.last.fm/user/NRegret">
+    <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="Last.fm" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=NRegret&count=3&width=400&bg_color=0D1117" alt="Last.fm Recently Played" />
+</p>
+
+<!-- RANDOM DEV JOKE -->
+## 😹 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%239370DB&aColor=%23FFFFFF" alt="Jokes Card" />
+</p>
+
 <!-- FEATURED PROJECTS -->
 ## 🎮 Featured Projects
 
