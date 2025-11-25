@@ -108,8 +108,8 @@ I build things slowly, complain about it, and somehow ship stuff anyway. ✨
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigNeekode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigNeekode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BigNeekode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BigNeekode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
