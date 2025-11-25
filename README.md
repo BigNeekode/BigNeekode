@@ -67,6 +67,7 @@ I'm a **chill grumpy lazy cat** who occasionally codes. My focus is on minimal e
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Piew-Piew](https://kanvas-kosong.itch.io)** | Games+ Arcade shooter | Unity, C# |
+| KOGASU | Blogging website currently on Progress | React, TS |
 
 ---
 
