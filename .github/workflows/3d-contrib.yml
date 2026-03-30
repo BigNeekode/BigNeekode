@@ -13,15 +13,19 @@ jobs:
     name: Generate 3D Contribution Calendar
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync branch
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git pull --rebase
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: BigNeekode
       - name: Commit & Push
         run: |
-          git config user.name github-actions[bot]
-          git config user.email github-actions[bot]@users.noreply.github.com
-          git pull --rebase
-          git add -A .
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update 3D contrib"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update 3D contrib"
           git push
