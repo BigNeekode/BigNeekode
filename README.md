@@ -142,11 +142,10 @@ Git-aware prompt, navigation helpers, lazy-loaded modules, remote detection, sho
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigNeekode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigNeekode&theme=tokyonight&hide_border=true&background=0D1117&ring=9370DB&fire=FF6B6B&currStreakLabel=9370DB" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigNeekode&theme=tokyonight&hide_border=true&background=0D1117&ring=9370DB&fire=FF6B6B&currStreakLabel=9370DB" alt="GitHub contribution streak" height="165" />
 </p>
 
 ### Contribution Garden
