@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Nico%20%2F%20BigNeekode&fontColor=FFFFFF&fontSize=48&fontAlignY=35&animation=twinkling&desc=Game%20Systems%20%E2%80%A2%20Developer%20Tools%20%E2%80%A2%20Interactive%20Software&descSize=17&descAlignY=56" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Nico%20%2F%20BigNeekode&fontColor=FFFFFF&fontSize=48&fontAlignY=35&animation=twinkling&desc=Game%20Systems%20%E2%80%A2%20Developer%20Tools%20%E2%80%A2%20Local-First%20Software&descSize=17&descAlignY=56" alt="Header" width="100%" />
 
 <p align="center">
   <strong>Game developer, software tinkerer, and professional Keyboard(🎹⌨️)-mancer.</strong>
 </p>
 
 <p align="center">
-  I build gameplay systems, developer tools, desktop apps, web interfaces, and the occasional tiny contraption that makes development less annoying.
+  I build gameplay systems, developer tools, local-first apps, web interfaces, and the occasional tiny contraption that makes development less annoying.
 </p>
 
 <p align="center">
@@ -16,13 +16,49 @@
 
 ---
 
+## Currently Building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎲 LudoNotes
+
+A local-first, cross-platform workspace built specifically for **game designers** — structured GDDs, characters, worldbuilding, mechanics, quests, progression, relationships, and impact analysis.
+
+`Flutter` `Dart` `Rust` `SQLite`
+
+</td>
+<td width="33%" valign="top">
+
+### 🌱 Project CoG
+
+An original game project set in a **post-apocalyptic solarpunk world**, focused on exploration, interconnected environments, systemic gameplay, and worldbuilding.
+
+`Unity` `C#` `Game Design` `Worldbuilding`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎼 Serenade
+
+A local-first desktop control room for operating AI software-development teams, with projects, tasks, workers, worktrees, reports, routes, and supervisor-driven workflows.
+
+`Tauri 2` `Rust` `React` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## About Me
 
 ```ts
 const nico = {
-  builds: ["games", "developer tools", "desktop apps", "web UI"],
-  languages: ["C#", "TypeScript", "JavaScript", "Lua", "Rust"],
-  playgrounds: ["Unity", "Godot", "FiveM / Qbox", "Tauri", "React", "Svelte"],
+  builds: ["games", "developer tools", "local-first apps", "desktop apps", "web UI"],
+  languages: ["C#", "TypeScript", "JavaScript", "Lua", "Rust", "Dart"],
+  playgrounds: ["Unity", "Godot", "Flutter", "FiveM / Qbox", "Tauri", "React", "Svelte"],
   sideQuest: ["game music", "sound design", "pixel art"],
   philosophy: "build small, understand the system, polish what matters, ship it"
 };
@@ -54,9 +90,9 @@ Desktop utilities, workflow automation, AI-assisted development tooling, editor 
 </td>
 <td width="33%" valign="top">
 
-### 🖥️ Game + Web UI
+### 🖥️ Product + Interface Engineering
 
-React, Svelte, TypeScript, CEF/NUI interfaces, dashboards, control panels, and interfaces for systems with a lot going on underneath.
+Local-first applications, React/Svelte interfaces, Flutter apps, CEF/NUI interfaces, dashboards, and control panels for systems with a lot going on underneath.
 
 </td>
 </tr>
@@ -70,6 +106,17 @@ React, Svelte, TypeScript, CEF/NUI interfaces, dashboards, control panels, and i
 <tr>
 <td width="50%" valign="top">
 
+### 🎲 LudoNotes
+
+**The workspace for game designers.**
+
+A local-first, cross-platform application for structured game design: modular GDD documentation, characters, worldbuilding, mechanics, quests, progression, connected design objects, and dependency/impact analysis.
+
+`Flutter` `Dart` `Rust` `SQLite` `Riverpod`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎼 [Serenade](https://github.com/BigNeekode/Serenade)
 
 **A control room for your AI software team.**
@@ -79,6 +126,8 @@ A free, local-first desktop GUI for [Secondhand (`hand`)](https://github.com/atq
 `Tauri 2` `Rust` `React` `TypeScript` `Vite`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔨 [Forge Toolkit](https://github.com/BigNeekode/JamForge)
@@ -90,26 +139,40 @@ It contains **JamForge** for getting playable quickly and **PolishForge** for fe
 `Unity 6` `C#` `UPM` `Game Tools`
 
 </td>
+<td width="50%" valign="top">
+
+### 🌱 Project CoG
+
+An original game project built around a **post-apocalyptic solarpunk island**, with a central mountain, settlements, contrasting biomes, exploration, and systemic gameplay.
+
+Currently in active development.
+
+`Unity` `C#` `Game Design` `Worldbuilding` `3D`
+
+</td>
 </tr>
+</table>
+
+---
+
+## Smaller Tools & Experiments
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
 ### 👁️ [SPreview](https://github.com/BigNeekode/SPreview)
 
-A **VS Code extension for previewing Svelte CEF interfaces** used in game mod development.
+A VS Code extension for previewing Svelte CEF interfaces used in game mod development, with live preview workflows and mocks for common game-client APIs.
 
-Includes live preview workflows and mocks for APIs commonly used by **FiveM / RedM, RAGE:MP, and alt:V**, making game UI iteration possible without constantly jumping back into the game client.
-
-`VS Code` `Svelte` `JavaScript` `CEF` `FiveM`
+`VS Code` `Svelte` `JavaScript` `CEF`
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ [PowershellAing](https://github.com/BigNeekode/PowershellAing)
 
-A lightweight PowerShell profile built around **fast startup and practical developer ergonomics**.
-
-Git-aware prompt, navigation helpers, lazy-loaded modules, remote detection, shortcuts, and a deliberately small startup footprint.
+A lightweight PowerShell profile built around fast startup and practical developer ergonomics: Git-aware prompt, navigation helpers, lazy-loaded modules, remote detection, and shortcuts.
 
 `PowerShell` `Git` `Developer UX`
 
@@ -122,7 +185,7 @@ Git-aware prompt, navigation helpers, lazy-loaded modules, remote detection, sho
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,cs,lua,ts,js,react,svelte,rust,tauri,nodejs,git,github,vscode,blender,figma" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,cs,lua,ts,js,react,svelte,rust,tauri,flutter,dart,nodejs,git,github,vscode,blender,figma" alt="Tech stack" />
 </p>
 
 <details>
@@ -133,22 +196,17 @@ Git-aware prompt, navigation helpers, lazy-loaded modules, remote detection, sho
 | --- | --- |
 | **Game development** | Unity, Godot, C#, gameplay systems, game-jam frameworks |
 | **Game modding** | FiveM, Qbox, RAGE:MP, Lua, CEF/NUI workflows |
-| **Desktop / tooling** | Tauri, Rust, VS Code extensions, PowerShell |
+| **Desktop / local-first** | Flutter, Dart, Tauri, Rust, SQLite, Riverpod |
+| **Developer tooling** | VS Code extensions, PowerShell, automation, AI-assisted development |
 | **Frontend** | TypeScript, JavaScript, React, Svelte, Tailwind CSS, HTML/CSS |
 | **Creative** | FL Studio, Blender, Aseprite, Figma |
-| **Workflow** | Git, GitHub, VS Code, automation and AI-assisted development |
+| **Workflow** | Git, GitHub, VS Code |
 
 </details>
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigNeekode&theme=tokyonight&hide_border=true&background=0D1117&ring=9370DB&fire=FF6B6B&currStreakLabel=9370DB" alt="GitHub contribution streak" height="165" />
-</p>
-
-### Contribution Garden
+## Contribution Garden
 
 <p align="center">
   <picture>
